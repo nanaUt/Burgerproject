@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\basic",
+    "\\basic\\config",
+    "\\basic\\modules",
+    "\\basic\\modules\\burgeradmin",
+    "\\basic\\modules\\burgeradmin\\views",
+    "\\basic\\modules\\burgeradmin\\views\\orders",
+    "\\basic\\views",
+    "\\basic\\views\\layouts",
+    "\\basic\\views\\site"
+  ],
+  "SelectedNode": "\\basic\\views\\site\\index.php",
+  "PreviewInSolutionExplorer": false
+}
